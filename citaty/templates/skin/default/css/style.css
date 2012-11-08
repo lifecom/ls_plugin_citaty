@@ -1,0 +1,25 @@
+.citaty-box {
+	margin:10px;
+	font-size:14px;
+}
+
+.citaty-box h2{
+	text-align:center;
+	font-size:18px;
+}
+
+.citaty-list{
+	list-style-type: disc;
+	list-style-position:inside;
+}
+
+.citaty-box fieldset{
+	margin-top:20px;
+	border:2px solid #ccc;
+	padding:10px;
+}
+
+.citaty-box textarea{
+	width:100%;
+	height:50px;
+}
